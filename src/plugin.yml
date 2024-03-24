@@ -1,0 +1,6 @@
+name: BatisteProtectedZones
+author: SirBatiste
+main: be.batiste.protectedZones.ProtectedZones
+version: 0.1
+api-version: 1.18
+description: Create safe spaces
